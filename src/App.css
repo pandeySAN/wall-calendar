@@ -479,12 +479,9 @@
 
 /* Has note indicator */
 .day-cell.has-note {
-  /* subtle */
+
 }
 
-/* ========================
-   GRID FOOTER
-   ======================== */
 .grid-footer {
   margin-top: 1.25rem;
   display: flex;
