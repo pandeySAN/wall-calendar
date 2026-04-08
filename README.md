@@ -59,3 +59,4 @@ src/
 npm i -g vercel
 vercel
 ```
+deployed on: https://wall-calendar-8sp3-c37z3s3qm-pandeysans-projects.vercel.app
